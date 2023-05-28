@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matlab-0062A0?style=flat&logo=matlab&logoColor=white"/>
 </div>
 <br>
 <div>
@@ -34,6 +36,7 @@
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/> 
 <img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat&logo=STMicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Electronic Circuit-000000?style=flat&logo=..&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetson Nano-76b900?style=flat&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/> 
 </div>
 <br>
@@ -59,7 +62,7 @@
     <tr>
       <td><b><a href="https://www.etri.re.kr/intro.html">ETRI</a> </b></td>
       <td>Intern</td>
-      <td>IoTware Service Platform QA</td>
+      <td>IoTware Service Framework QA</td>
       <td>2021.07 - 2021.08</td>
     </tr>
   </tbody>

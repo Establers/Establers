@@ -70,6 +70,7 @@
 <br>
 <summary><b> My Projects 🎮</b></summary>
 <br>
+
 <table>
   <thead>
     <tr>
@@ -86,6 +87,7 @@
     </tr>
   </tbody>
 </table>
+
 <!-- end work project section -->
 <br>
 <!-- start statics fun section -->
@@ -93,7 +95,7 @@
 <summary><b> Statistics 🪧</b></summary>
 <br>
 <div>
-<img src='https://github-readme-stats.vercel.app/api?username=establers&show_icons=true&theme=transparent' />
+<img src='https://github-readme-stats.vercel.app/api?username=establers&show_icons=true&theme=transparent&line_height=20' />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=establers&hide_langs_below=5&layout=compact' />
 </div>
 

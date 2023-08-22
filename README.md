@@ -1,15 +1,10 @@
 <div align='center'><h1>Jae Hwan Park 🙂</h1></div>
 <div align="center">
-<a href="https://www.linkedin.com/in/gogogosing" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
+<a href="https://www.linkedin.com/in/gogogosing" target="_blank" rel="nofollow"><img align="right" alt="Jaehwan's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
+<a href="https://establers.oopy.io/" target="_blank" rel="nofollow"><img align="right" alt="Jaehwan's Site" width="22px" src="https://img.icons8.com/color/48/internet--v1.png" /></a>
 </div>
 
-### Hi  👋  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEstablers&label=Visitors&countColor=%23263759&style=flat)
-- 💙 I’m currently studying at  **Samsung Software Academy For Youth(SSAFY)** 
-- 💻 I'm learning about Spring Framework. 🥬
-- 🤔 I’m looking for help with Computer Science and Spring. 😭
-- 💬 Ask me about anything, I am happy to help.
-- 💡 Occasionaly I do participate in **Toy Project.**
-- ⚡ Languages: **JAVA | Python3 | C** 
+### Hello.  👋  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEstablers&label=Visitors&countColor=%23263759&style=flat)
 
 <br />
 
@@ -54,8 +49,14 @@
   </thead>
   <tbody>
      <tr>
+      <td><b><a href="https://www.lge.com/">LG Electronics</a> </b></td>
+      <td>SW</td>
+      <td>SAC Cycle Logic(Embedded)</td>
+      <td>2023.07 ~ </td>
+    </tr>
+     <tr>
       <td><b><a href="https://www.lignex1.com/">LIG NEX1</a> </b></td>
-      <td>Reaserach Engineer</td>
+      <td>Reserach Engineer</td>
       <td>Radar Production Engineering(HW)</td>
       <td>2022.04 - 2022.11</td>
     </tr>
@@ -73,7 +74,6 @@
 <br>
 <summary><b> My Projects 🎮</b></summary>
 <br>
-
 <table>
   <thead>
     <tr>
@@ -84,22 +84,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='www.naver.com'>TEST</a></td>
-      <td>EMPTY</td>
-      <td>...</td>
+      <td><a href='https://github.com/Establers/enjoytrip-semi'></a>EnjoyTrip</td>
+      <td>BE(SpringBoot, JWT...)</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
-
-<!-- end work project section -->
 <br>
-<!-- start statics fun section -->
 
-<summary><b> Statistics 🪧</b></summary>
-<br>
-<div>
-<img src='https://github-readme-stats.vercel.app/api?username=establers&show_icons=true&theme=transparent&line_height=20' />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=establers&hide_langs_below=5&layout=compact' />
-</div>
+
 
 

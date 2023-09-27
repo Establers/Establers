@@ -84,8 +84,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/Establers/enjoytrip-semi'></a>EnjoyTrip</td>
-      <td>BE(SpringBoot, JWT...)</td>
+      <td><b><a href='https://github.com/Establers/enjoytrip-semi'>EnjoyTrip</a></b></td>
+      <td>BackEnd(User, JWT)</td>
       <td>-</td>
     </tr>
   </tbody>

@@ -1,7 +1,6 @@
 <div align='center'><h1>Jae Hwan Park 🙂</h1></div>
 <div align="center">
 <a href="https://www.linkedin.com/in/gogogosing" target="_blank" rel="nofollow"><img align="right" alt="Jaehwan's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a>
-<a href="https://establers.oopy.io/" target="_blank" rel="nofollow"><img align="right" alt="Jaehwan's Site" width="22px" src="https://img.icons8.com/color/48/internet--v1.png" /></a>
 </div>
 
 ### Hello.  👋  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEstablers&label=Visitors&countColor=%23263759&style=flat)
@@ -17,23 +16,19 @@
 <br>
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matlab-0062A0?style=flat&logo=matlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded Systems-010101?style=flat&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coverity-4d377b?style=flat&logo=verizon&logoColor=white"/>
 </div>
 <br>
 <div>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/> 
-<img src="https://img.shields.io/badge/STMicroelectronics-03234B?style=flat&logo=STMicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electronic Circuit-000000?style=flat&logo=..&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetson Nano-76b900?style=flat&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 </div>
+<br>
 <br>
 <!-- start work experience section -->
 <summary><b> My Work Experiences 👨‍💼 </b></summary>
@@ -53,6 +48,12 @@
       <td>SW</td>
       <td>SAC Cycle Logic(Embedded)</td>
       <td>2023.07 ~ </td>
+    </tr>
+    <tr>
+      <td><b><a href="https://www.ssafy.com/">SSAFY(Samsung Sw Academy For Youth)</a> </b></td>
+      <td>Trainee</td>
+      <td>Java Backend</td>
+      <td>2023.01 ~ 2023.06</td>
     </tr>
      <tr>
       <td><b><a href="https://www.lignex1.com/">LIG NEX1</a> </b></td>
@@ -85,7 +86,7 @@
   <tbody>
     <tr>
       <td><b><a href='https://github.com/Establers/enjoytrip-semi'>EnjoyTrip</a></b></td>
-      <td>BackEnd(User, JWT)</td>
+      <td>BackEnd(User API, JWT)</td>
       <td>-</td>
     </tr>
   </tbody>

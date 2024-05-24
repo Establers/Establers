@@ -64,7 +64,7 @@
     <tr>
       <td><b><a href="https://www.etri.re.kr/intro.html">ETRI</a> </b></td>
       <td>Intern</td>
-      <td>IoTware Service Framework QA</td>
+      <td>IoTware Service Framework QA/Develop(stm32-FreeRTOS)</td>
       <td>2021.07 - 2021.08</td>
     </tr>
   </tbody>

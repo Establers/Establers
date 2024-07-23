@@ -89,6 +89,11 @@
       <td>BackEnd(User API, JWT)</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td><b><a href='https://github.com/Establers/ezcov'>Coverity GUI Tool</a></b></td>
+      <td>Python, Tkinter</td>
+      <td>정적분석 Coverity Tool CLI 구동환경이 불편해서 개발 및 팀배포</td>
+    </tr>
   </tbody>
 </table>
 <br>

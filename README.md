@@ -46,7 +46,8 @@
      <tr>
       <td><b><a href="https://www.lge.com/">LG Electronics</a> </b></td>
       <td>SW</td>
-      <td>SAC Cycle Logic(Embedded)</td>
+      <td>SAC Cycle Logic(Embedded)
+        : HVAC SW(ODU) w/ Renesas Micom(RX sereies) </td>
       <td>2023.07 ~ </td>
     </tr>
     <tr>
